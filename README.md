@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # form_login
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# login_form
+>>>>>>> 00d6ee79d7c6d0866b7b81e477c2a45e70f4ad98
